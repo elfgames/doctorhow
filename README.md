@@ -1,4 +1,4 @@
-Doctor How sample game - tribute game
+Doctor How - sample game
 =========
 
 A sample game for Gameboy created with gbdk, gbdk-lib-extension and GB Lemon tracker LP1.297a.
