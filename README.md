@@ -14,3 +14,6 @@ Graphics by Flame:
 http://eidog.deviantart.com/
 
 
+
+You can try it online at:
+http://elfgames.altervista.org/doctor_how/
