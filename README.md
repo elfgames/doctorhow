@@ -1,4 +1,3 @@
-=========
 Doctor How sample game - tribute game
 =========
 
