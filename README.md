@@ -1,24 +1,30 @@
 Doctor How - sample game
 =========
 
-A sample game for Gameboy created with gbdk, gbdk-lib-extension and GB Lemon tracker LP1.297a.
-http://gbdk.sourceforge.net/
+A sample tribute game to Doctor Who TV series for Gameboy
 
-https://github.com/ProGM/gbdk-lib-extension
+![Doctor How](https://raw.githubusercontent.com/elfgames/doctorhow/master/splash_screen.png)
 
-http://members.fortunecity.com/lemon26/
+It's created using gbdk, gbdk-lib-extension and GB Lemon tracker LP1.297a.
 
-It's showing how to use the gbdk-lib-extension library.
+**You can try it online at:**
 
-
-Tribute to Doctor Who TV series.
-
-
-Graphics by Flame:
-
-http://eidog.deviantart.com/
-
-
-
-You can try it online at:
 http://elfgames.altervista.org/doctor_how/
+
+## Credits
+
+Game boy development Kit: http://gbdk.sourceforge.net/
+
+gbdk-lib-extension: https://github.com/ProGM/gbdk-lib-extension
+
+Music created using Lemon tracker: http://members.fortunecity.com/lemon26/
+
+
+
+Graphics by Seluine:
+
+https://www.behance.net/bi-workshop
+
+
+
+
